@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wonderbeef</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <!-- Launcher -->
+    <string name="spotstreamer">Spotify Streamer</string>
+    <string name="ScoresApp">Scores App</string>
+    <string name="LibraryApp">Library App</string>
+    <string name="builditbigger">Build It Bigger</string>
+    <string name="xyzreader">XYZ Reader</string>
+    <string name="capstone">Capstone: My Own App</string>
+    <string name="launch_Title">My Nanodegree Apps</string>
+</resources>
